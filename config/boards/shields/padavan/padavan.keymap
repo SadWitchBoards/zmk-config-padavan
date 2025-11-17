@@ -45,7 +45,7 @@
             label = "AAL";
 
             bindings = <
-                &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans        &kp RA(MINUS) &kp RA(N7)   &kp RA(N0)
+                &bt CLEAR &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans        &kp RA(MINUS) &kp RA(N7)   &kp RA(N0)
                 &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans        &kp GT        &kp GRAVE    &kp TILDE
       	        &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans        &kp UNDER     &kp PLUS     &trans
                 &trans     &trans     &trans                           &trans                                      &trans     &trans     &trans     &trans        &trans        &trans       &trans
